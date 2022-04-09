@@ -123,7 +123,7 @@ function IndexNavbar() {
             target="_blank"
             title="Coded by Creative Tim"
           >
-            Spring Soccer NFT
+            Soccer Verse NFT
           </NavbarBrand>
           <button
             aria-expanded={navbarCollapse}
